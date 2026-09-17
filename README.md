@@ -307,13 +307,7 @@ The Skill Swap Marketplace aims to:
 * Encourage **collaboration between students**
 * Improve **teaching and communication skills**
 * Build a **knowledge-sharing campus culture**
-
----
-
-# 👩‍💻 Contributors
-
-Students building the **Skill Swap Marketplace Project**.
-
+  
 ---
 
 # 📄 License
